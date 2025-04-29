@@ -121,15 +121,18 @@ Password: admin
 ## 🖼️ Screenshots
 
 ### ✔️ Docker Containers Running
-![Containers](./screenshots/docker-containers.png)
+![image](https://github.com/user-attachments/assets/fda79ce4-70e9-4ed8-a9fd-e9fde94117a4)
+
 
 ### ✔️ Grafana Login
-![Grafana Login](./screenshots/grafana-login.png)
+![image](https://github.com/user-attachments/assets/13f58229-e180-4802-b481-4f1f17febdee)
+
 
 ### ✔️ Dashboard Example
-![Dashboard](./screenshots/grafana-dashboard.png)
+![image](https://github.com/user-attachments/assets/7c2921f3-6f04-46a6-a306-7961b7d8ecd0)
 
----
+
+### ✔️ Node Exporter Full
 ![image](https://github.com/user-attachments/assets/1249f1f9-2dc2-445a-81e5-0bdd96e47405)
 
 ## 🧠 Observations
