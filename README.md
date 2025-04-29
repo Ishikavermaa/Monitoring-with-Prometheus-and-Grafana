@@ -130,6 +130,7 @@ Password: admin
 ![Dashboard](./screenshots/grafana-dashboard.png)
 
 ---
+![image](https://github.com/user-attachments/assets/1249f1f9-2dc2-445a-81e5-0bdd96e47405)
 
 ## 🧠 Observations
 
@@ -161,6 +162,6 @@ Password: admin
 
 ## 🧾 Author
 
-> Created by [Your Name]  
+> Created by Ishika Verma 
 > Date: April 2025  
 > Tools: Docker, VS Code, Prometheus, Grafana, Node Exporter
